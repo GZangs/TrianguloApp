@@ -13,7 +13,7 @@ import java.util.Set;
 public class TelaTriangulo {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
-
+        int terst=0;
         System.out.println("Informa o tipo do triangulo");
 
         System.out.println("Informa o valor do lado a");
