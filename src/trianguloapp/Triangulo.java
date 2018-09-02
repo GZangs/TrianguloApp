@@ -13,7 +13,7 @@ import java.util.Set;
  * @author Gabriel
  */
 public class Triangulo {
-
+    //Classe triangulo
     private double a;
     private double b;
     private double c;
